@@ -12,6 +12,6 @@
 ### Step 3: 
 #### For Video Processing/Object Detection- Run the 'yolo_video.py' file in the same directory where video file is stored and from there open up the terminal and execute the following command---
 ---------$python yolo.py -i "path to input video" -o "path to output video" -y yolo-coco
-### Note-For perfect execution, set the path of output video in '.avi' format. Also delete video(given in the repo) from Video-output to check whether the video file is stored in the Video-output file or not.
+#### Note-For perfect execution, set the path of output video in '.avi' format. Also delete video(given in the repo) from Video-output to check whether the video file is stored in the Video-output file or not.
 
 *******************************************************************************************************************************************
