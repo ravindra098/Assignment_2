@@ -1,4 +1,4 @@
-## Assignment_2
+## Yolo object Detection
 
 ### Step 1: 
 #### Clone this repo and download the weights file(https://drive.google.com/open?id=1HvN5KueHboe9MBABA70qvbpjgoH7L_NA) and store it in the yolo-colo file.
